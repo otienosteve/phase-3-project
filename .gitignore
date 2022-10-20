@@ -1,0 +1,8 @@
+Gemfile.lock
+frontend/package.json
+frontend/README.md
+frontend/package-lock.json
+config/
+frontend/.gitignore
+frontend/public/
+frontend/src/
